@@ -5,15 +5,14 @@
 
  * Made available under a MIT License:
  * http://www.opensource.org/licenses/mit-license.php
-
+#135796
  */
 [class^='imghvr-'],
 [class*=' imghvr-'] {
   position: relative;
   display: inline-block;
-  margin: 0px;
   max-width: 100%;
-  background-color: #2266a5;
+  background-color: grey;
   color: #fff;
   overflow: hidden;
   -webkit-backface-visibility: hidden;
@@ -29,7 +28,7 @@
 }
 [class^='imghvr-'] figcaption,
 [class*=' imghvr-'] figcaption {
-  background-color: #135796;
+  background-color: grey;
   padding: 30px;
   position: absolute;
   top: 0;
