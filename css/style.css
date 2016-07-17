@@ -401,8 +401,8 @@ body {
 }
 
 .box{
-    height:180px; 
-    width:250px; 
+    height:185px; 
+    width:185px; 
     margin:10px; 
     padding:15px;
     border-radius: 20px;
@@ -413,11 +413,33 @@ body {
     height:400px;
     width:800px;
     background-color:grey;
-    border-radius: 20px;
-    padding-top: 150px;
+    padding-top: 120px;
     padding-bottom: auto;
+}
+
+#longtitle{
+    margin-top:20px;
+    font-size: 18px;
+    margin-bottom: 50px
+}
+
+.longtext{
+    font-size:15px;
+}
+
+#nospace{
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 #about{
     padding-bottom: 100px;
+}
+
+.contact-info{
+    font-size:14px;
+}
+
+#services-support{
+    max-width: 60%
 }
